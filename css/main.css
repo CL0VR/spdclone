@@ -6,3 +6,30 @@ p {
   color: grey;
   font-size: 1.5em;
 }
+
+.container {
+  overflow: hidden;
+}
+
+
+.btn-group {
+  margin-top: -50px;
+  margin-right: 5px;
+  margin-bottom: 70px;
+}
+
+.btn-default {
+  background-image: none;
+  box-shadow: none;
+  font-size: 16px;
+  display: inline-block;
+
+}
+
+.active {
+  font-size: 16px;
+}
+
+span {
+  font-size: 4em;
+}
